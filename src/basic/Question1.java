@@ -17,7 +17,9 @@ public class Question1 {
 		System.out.println("Enter the d value:  ");
 		d=sc.nextInt();
 		e=a+b;
+		System.out.println("The sum of a and b:  "+e);
 		f=c+d;
+		System.out.println("The sum of c and d:  "+f);
 		if(e<f)
 		{
 			System.out.println("The sum of a and b is greater than sum of c and d");
