@@ -12,7 +12,6 @@ public class Question1 {
 		a=sc.nextInt();
 		System.out.println("Enter the b value:  ");
 		b=sc.nextInt();
-		System.out.println("Enter the c value:  ");
 		c=sc.nextInt();
 		System.out.println("Enter the d value:  ");
 		d=sc.nextInt();
