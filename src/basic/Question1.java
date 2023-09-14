@@ -24,7 +24,7 @@ public class Question1 {
 			System.out.println("The sum of a and b is greater than sum of c and d");
 			}
 		else 
-			System.out.println();
+			System.out.println("The sum of a and b is greater than sum of c and d");
 			
 		
 	}
